@@ -142,7 +142,7 @@ streamlit run app.py
 ## 🌐 Live Demo
 
 ```text
-Add your Streamlit Cloud URL here
+https://malshiprabodha-forest-cover-type-prediction-app-d2di7z.streamlit.app/
 ```
 
 
