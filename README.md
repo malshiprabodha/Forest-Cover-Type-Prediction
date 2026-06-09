@@ -93,10 +93,6 @@ Class 6 (Douglas-fir)        : F1 = 0.89
 Class 7 (Krummholz)          : F1 = 0.97
 ```
 
-The model demonstrates strong multiclass classification performance and successfully identifies different forest cover types based on environmental conditions.
-
----
-
 ## 🛠️ Technologies Used
 
 * Python
@@ -107,8 +103,6 @@ The model demonstrates strong multiclass classification performance and successf
 * Scikit-learn
 * Joblib
 * Streamlit
-
----
 
 ## 📁 Project Structure
 
@@ -123,8 +117,6 @@ Forest Cover Prediction/
 ├── README.md
 └── Image.png
 ```
-
----
 
 ## 🚀 Installation
 
@@ -146,10 +138,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
-
-## 🌲 Forest Cover Types
-
 
 ## 🌐 Live Demo
 
